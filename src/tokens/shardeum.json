@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Wrapped Ether",
+      "address": "0xB4C5dE217fF39924233FA3846478E68Fa11161AF",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 8080,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "Global Token",
+      "address": "0x78395514344A1b57c775af49938Ec559B60F2Ac8",
+      "symbol": "GBT",
+      "decimals": 18,
+      "chainId": 8080,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+    }
+]
